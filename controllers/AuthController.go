@@ -6,8 +6,8 @@ package controllers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/VoidArtanis/GoRestBoilerPlate/middlewares"
-	"github.com/VoidArtanis/GoRestBoilerPlate/shared"
+	"github.com/VoidArtanis/go-rest-boilerplate/middlewares"
+	"github.com/VoidArtanis/go-rest-boilerplate/shared"
 )
 
 type AuthController struct{}

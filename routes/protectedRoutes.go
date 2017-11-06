@@ -6,8 +6,8 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/VoidArtanis/GoRestBoilerPlate/middlewares"
-	"github.com/VoidArtanis/GoRestBoilerPlate/controllers"
+	"github.com/VoidArtanis/go-rest-boilerplate/middlewares"
+	"github.com/VoidArtanis/go-rest-boilerplate/controllers"
 )
 
 func RegisterProtectedRoutes(r *gin.Engine){

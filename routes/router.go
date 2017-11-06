@@ -6,8 +6,8 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/VoidArtanis/GoRestBoilerPlate/controllers"
-	"github.com/VoidArtanis/GoRestBoilerPlate/middlewares"
+	"github.com/VoidArtanis/go-rest-boilerplate/controllers"
+	"github.com/VoidArtanis/go-rest-boilerplate/middlewares"
 )
 
 func InitRouter(engine *gin.Engine) {
