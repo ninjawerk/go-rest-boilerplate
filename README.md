@@ -25,5 +25,5 @@ Go environment must be setup.
 ## Built With
 
 * [Gin](https://github.com/gin-gonic/gin) - HTTP web framework
-* [Maven](http://jinzhu.me/gorm/) - ORM library for Golang
+* [GORM](http://jinzhu.me/gorm/) - ORM library for Golang
  
